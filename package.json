@@ -1,0 +1,1 @@
+{"engines":{"node":">=22"},"license":"MIT","name":"u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
